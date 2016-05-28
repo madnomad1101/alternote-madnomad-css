@@ -5,6 +5,9 @@
 
 ## version
 
+### v0.2
+- 본문의 ol, ul 리스트의 line-height 폭을 넚게 수정
+
 ### v0.1
 - 제목 폰트를 얇게 수정 (font-weight:200)
 - 본문의 h1, h2의 폰트가 일반 글씨에 비해서 너무 우락부락 크지 않게 수정 h1{font-size:1.5em;font-weight:600} h2{font-size:1.25em;font-weight:500}
