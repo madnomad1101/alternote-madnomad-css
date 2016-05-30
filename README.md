@@ -6,6 +6,8 @@
 ## version
 
 ### v0.2
+- h1 : border-bottom 설정, 폰트 얇게 수정
+- h1, h2, h3 적당한 크기로 수정
 - 본문의 ol, ul 리스트의 line-height 폭을 넚게 수정
 
 ### v0.1
